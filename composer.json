@@ -1,13 +1,13 @@
 {
-    "name": "theapi/cctvbundle",
+    "name": "marcelovani/cctv-mate",
     "type": "symfony-bundle",
     "description": "Manage incoming email from the Swann CCTV system",
     "keywords":     ["CCTV", "Swann", "mailparse", "Symfony2"],
-    "homepage":     "https://github.com/theapi/CctvBundle",
+    "homepage":     "https://github.com/marcelovani/cctv-mate",
     "license": "MIT",
     "authors":      [
         {
-            "name": "Peter Clarke"
+            "name": "Marcelo Vani"
         }
     ],
 
